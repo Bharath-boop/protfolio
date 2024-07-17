@@ -230,6 +230,13 @@ const About = () => {
                   <a
                     className="text-gradient"
                     target="_blank"
+                    href="https://protfoliobk.vercel.app/"
+                  >
+                    <i className="bi bi-file-code"></i>
+                  </a>
+                  <a
+                    className="text-gradient"
+                    target="_blank"
                     href="https://medium.com/@bharathboopathi51550"
                   >
                     <i className="bi bi-medium"></i>
