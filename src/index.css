@@ -250,6 +250,7 @@ a {
 }
 a:hover {
   color: var(--bs-link-hover-color);
+  cursor: url('./assets/cr.png'),auto;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -365,7 +366,7 @@ select {
 }
 
 [role=button] {
-  cursor: pointer;
+  cursor: url('./assets/cr.png'),auto;
 }
 
 select {
@@ -11583,6 +11584,7 @@ nav img{
 body,
 html {
   height: 100%;
+  cursor: url('./assets/d.png'),auto;
 }
 
 .bg-gradient-primary-to-secondary {
